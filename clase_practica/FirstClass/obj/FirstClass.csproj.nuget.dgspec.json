@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Carlos Blanco\\Desktop\\MATCOM\\programming\\Expresiones\\Expresiones.csproj": {}
+    "/home/xcaim/MATCOM/clase_practica/FirstClass/FirstClass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Carlos Blanco\\Desktop\\MATCOM\\programming\\Expresiones\\Expresiones.csproj": {
+    "/home/xcaim/MATCOM/clase_practica/FirstClass/FirstClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carlos Blanco\\Desktop\\MATCOM\\programming\\Expresiones\\Expresiones.csproj",
-        "projectName": "Expresiones",
-        "projectPath": "C:\\Users\\Carlos Blanco\\Desktop\\MATCOM\\programming\\Expresiones\\Expresiones.csproj",
-        "packagesPath": "C:\\Users\\Carlos Blanco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carlos Blanco\\Desktop\\MATCOM\\programming\\Expresiones\\obj\\",
+        "projectUniqueName": "/home/xcaim/MATCOM/clase_practica/FirstClass/FirstClass.csproj",
+        "projectName": "FirstClass",
+        "projectPath": "/home/xcaim/MATCOM/clase_practica/FirstClass/FirstClass.csproj",
+        "packagesPath": "/home/xcaim/.nuget/packages/",
+        "outputPath": "/home/xcaim/MATCOM/clase_practica/FirstClass/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Carlos Blanco\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/xcaim/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/250/sdk/8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
