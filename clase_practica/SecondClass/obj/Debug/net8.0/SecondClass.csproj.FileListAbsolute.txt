@@ -1,0 +1,15 @@
+/home/xcaim/MATCOM/clase_practica/SecondClass/obj/Debug/net8.0/SecondClass.GeneratedMSBuildEditorConfig.editorconfig
+/home/xcaim/MATCOM/clase_practica/SecondClass/obj/Debug/net8.0/SecondClass.AssemblyInfoInputs.cache
+/home/xcaim/MATCOM/clase_practica/SecondClass/obj/Debug/net8.0/SecondClass.AssemblyInfo.cs
+/home/xcaim/MATCOM/clase_practica/SecondClass/obj/Debug/net8.0/SecondClass.csproj.CoreCompileInputs.cache
+/home/xcaim/MATCOM/clase_practica/SecondClass/obj/Debug/net8.0/SecondClass.sourcelink.json
+/home/xcaim/MATCOM/clase_practica/SecondClass/bin/Debug/net8.0/SecondClass
+/home/xcaim/MATCOM/clase_practica/SecondClass/bin/Debug/net8.0/SecondClass.deps.json
+/home/xcaim/MATCOM/clase_practica/SecondClass/bin/Debug/net8.0/SecondClass.runtimeconfig.json
+/home/xcaim/MATCOM/clase_practica/SecondClass/bin/Debug/net8.0/SecondClass.dll
+/home/xcaim/MATCOM/clase_practica/SecondClass/bin/Debug/net8.0/SecondClass.pdb
+/home/xcaim/MATCOM/clase_practica/SecondClass/obj/Debug/net8.0/SecondClass.dll
+/home/xcaim/MATCOM/clase_practica/SecondClass/obj/Debug/net8.0/refint/SecondClass.dll
+/home/xcaim/MATCOM/clase_practica/SecondClass/obj/Debug/net8.0/SecondClass.pdb
+/home/xcaim/MATCOM/clase_practica/SecondClass/obj/Debug/net8.0/SecondClass.genruntimeconfig.cache
+/home/xcaim/MATCOM/clase_practica/SecondClass/obj/Debug/net8.0/ref/SecondClass.dll
