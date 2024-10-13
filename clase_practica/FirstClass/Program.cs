@@ -1,63 +1,27 @@
-﻿using System;
+﻿/*Clase Practica de Programacion*/
+/*Facultad de matematica y computacion*/
+// Universidad de la Habana
+// Carlos Javier Blanco Moreira
 
-namespace CP
-{
-    class HelloWorld
-    {
+/* 1. Reciba como entrada una cadena de caracteres (string). Luego muestre en la terminal ese
+mismo string pero con terminación ”medio limón”. */
 
-        static void sayHello()
-        {
-            // Di Hola
+Console.WriteLine(" Ingrese una cadena de caracteres : ");
+string inputString = Console.ReadLine();
+Console.WriteLine(inputString + " medio limón ");
 
-            // Muestre en consola el siguiente string "Hello World"
-            Console.WriteLine("Hello World");
-            //Muestre en consola el valores maximo y el valor minimo admitidos por el tipo int
-            int minInt = int.MinValue;
-            int maxInt = int.MaxValue;
-            Console.WriteLine($"Minimo: {minInt}  Maximo: {maxInt}");
-            // Muestre en consola un valor aproximado de PI
-            Console.WriteLine(Math.PI);
-        }
+// 2. Reciba un número entero y muestre en la consola su doble.
+Console.WriteLine("Ingrese un numero entero");
+int number = int.Parse(Console.ReadLine());
+Console.WriteLine($"El doble del numero es {number * 2}");
 
-        static void getInputs()
-        {
-            // Recibiendo entradas
+// 3. Reciba dos números enteros de la consola y determine cuál de los dos es mayor sin utilizar
+//    Math.Max y Math.Min.
+System.Console.Write("Ingrese el primer numero: ");
+int a = int.Parse(Console.ReadLine());
+System.Console.Write("Ingrese el segundo numero: ");
+int b = int.Parse(Console.ReadLine());
 
-            // Pedir un string como entrada y ponerle la terminacion "medio limon"
-            string input = Console.ReadLine();
-            Console.WriteLine(input + " medio limón");
+int max = (a + b + Math.Abs(a - b)) / 2;
+System.Console.WriteLine($"El mayor valor entre {a} y {b} es {max}");
 
-            // Reciba un numero entero y muestre por consola su nombre
-            int numberToPow = int.Parse(Console.ReadLine());
-            Console.WriteLine(Math.Pow(numberToPow, 2));
-
-            // Reciba tres enteros por consola e imprima el valor del medio usando MIN y MAX y el promedio de estos
-            int a = int.Parse(Console.ReadLine());
-            int b = int.Parse(Console.ReadLine());
-            int c = int.Parse(Console.ReadLine());
-            int answer = (a + b + c) / 3;
-
-            int mid = Math.Min(Math.Min(Math.Max(a, b), Math.Max(b, c)), Math.Max(a, c));
-
-            Console.WriteLine($"Valor central de {a} {b} {c} es: {mid}");
-            Console.WriteLine($"Su promedio es {answer}");
-
-            // Mostrar el caracter x de un string
-            string value = Console.ReadLine();
-            int x = int.Parse(Console.ReadLine());
-            Console.WriteLine(value[x - 1]);
-        }
-
-        static double Circunferencia(double r)
-        {
-            // Programando... 
-        }
-
-        static void Main(string[] args)
-        {
-            //sayHello();
-            //getInputs();
-            Circunferencia(6);
-        }
-    }
-}
