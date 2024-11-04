@@ -1,0 +1,15 @@
+/home/xcaim/MATCOM/exercises/DescomposicionEnSumandos/obj/Debug/net8.0/DescomposicionEnSumandos.GeneratedMSBuildEditorConfig.editorconfig
+/home/xcaim/MATCOM/exercises/DescomposicionEnSumandos/obj/Debug/net8.0/DescomposicionEnSumandos.AssemblyInfoInputs.cache
+/home/xcaim/MATCOM/exercises/DescomposicionEnSumandos/obj/Debug/net8.0/DescomposicionEnSumandos.AssemblyInfo.cs
+/home/xcaim/MATCOM/exercises/DescomposicionEnSumandos/obj/Debug/net8.0/DescomposicionEnSumandos.csproj.CoreCompileInputs.cache
+/home/xcaim/MATCOM/exercises/DescomposicionEnSumandos/obj/Debug/net8.0/DescomposicionEnSumandos.sourcelink.json
+/home/xcaim/MATCOM/exercises/DescomposicionEnSumandos/bin/Debug/net8.0/DescomposicionEnSumandos
+/home/xcaim/MATCOM/exercises/DescomposicionEnSumandos/bin/Debug/net8.0/DescomposicionEnSumandos.deps.json
+/home/xcaim/MATCOM/exercises/DescomposicionEnSumandos/bin/Debug/net8.0/DescomposicionEnSumandos.runtimeconfig.json
+/home/xcaim/MATCOM/exercises/DescomposicionEnSumandos/bin/Debug/net8.0/DescomposicionEnSumandos.dll
+/home/xcaim/MATCOM/exercises/DescomposicionEnSumandos/bin/Debug/net8.0/DescomposicionEnSumandos.pdb
+/home/xcaim/MATCOM/exercises/DescomposicionEnSumandos/obj/Debug/net8.0/DescomposicionEnSumandos.dll
+/home/xcaim/MATCOM/exercises/DescomposicionEnSumandos/obj/Debug/net8.0/refint/DescomposicionEnSumandos.dll
+/home/xcaim/MATCOM/exercises/DescomposicionEnSumandos/obj/Debug/net8.0/DescomposicionEnSumandos.pdb
+/home/xcaim/MATCOM/exercises/DescomposicionEnSumandos/obj/Debug/net8.0/DescomposicionEnSumandos.genruntimeconfig.cache
+/home/xcaim/MATCOM/exercises/DescomposicionEnSumandos/obj/Debug/net8.0/ref/DescomposicionEnSumandos.dll
