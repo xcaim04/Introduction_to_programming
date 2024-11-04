@@ -1,0 +1,15 @@
+/home/carlos/Escritorio/competitive-programming/Other Exercises/ExerciseBooks/bin/Debug/net8.0/ExerciseBooks
+/home/carlos/Escritorio/competitive-programming/Other Exercises/ExerciseBooks/bin/Debug/net8.0/ExerciseBooks.deps.json
+/home/carlos/Escritorio/competitive-programming/Other Exercises/ExerciseBooks/bin/Debug/net8.0/ExerciseBooks.runtimeconfig.json
+/home/carlos/Escritorio/competitive-programming/Other Exercises/ExerciseBooks/bin/Debug/net8.0/ExerciseBooks.dll
+/home/carlos/Escritorio/competitive-programming/Other Exercises/ExerciseBooks/bin/Debug/net8.0/ExerciseBooks.pdb
+/home/carlos/Escritorio/competitive-programming/Other Exercises/ExerciseBooks/obj/Debug/net8.0/ExerciseBooks.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlos/Escritorio/competitive-programming/Other Exercises/ExerciseBooks/obj/Debug/net8.0/ExerciseBooks.AssemblyInfoInputs.cache
+/home/carlos/Escritorio/competitive-programming/Other Exercises/ExerciseBooks/obj/Debug/net8.0/ExerciseBooks.AssemblyInfo.cs
+/home/carlos/Escritorio/competitive-programming/Other Exercises/ExerciseBooks/obj/Debug/net8.0/ExerciseBooks.csproj.CoreCompileInputs.cache
+/home/carlos/Escritorio/competitive-programming/Other Exercises/ExerciseBooks/obj/Debug/net8.0/ExerciseBooks.sourcelink.json
+/home/carlos/Escritorio/competitive-programming/Other Exercises/ExerciseBooks/obj/Debug/net8.0/ExerciseBooks.dll
+/home/carlos/Escritorio/competitive-programming/Other Exercises/ExerciseBooks/obj/Debug/net8.0/refint/ExerciseBooks.dll
+/home/carlos/Escritorio/competitive-programming/Other Exercises/ExerciseBooks/obj/Debug/net8.0/ExerciseBooks.pdb
+/home/carlos/Escritorio/competitive-programming/Other Exercises/ExerciseBooks/obj/Debug/net8.0/ExerciseBooks.genruntimeconfig.cache
+/home/carlos/Escritorio/competitive-programming/Other Exercises/ExerciseBooks/obj/Debug/net8.0/ref/ExerciseBooks.dll
